@@ -1,0 +1,45 @@
+.header {
+  background-color: 84a98c;
+  text-align: center;
+  padding: 20px;
+  font-family: Lucida Handwriting;
+  color:354f52;
+}
+body{
+  background-color: 52796f;
+}
+
+  div {
+  width: 300px;
+  height: 100px;
+  padding: 15px;
+  background-color: cad2c5;
+  box-shadow: 10px 10px;
+}
+.anime{
+  width: 600px;
+  border: solid 4px black ;
+}
+.p1{
+  width: 60%;
+  height:30%;
+  padding: 15px;
+  background-color: cad2c5;
+  box-shadow: 10px 10px;
+}
+.p2{
+  width: 90%;
+  height:30%;
+  padding: 15px;
+  background-color: cad2c5;
+  box-shadow: 10px 10px;
+}
+.talk{
+  width: 70%;
+  height:auto;
+  padding: 15px;
+  background-color: cad2c5;
+  box-shadow: 10px 10px;
+
+
+}
